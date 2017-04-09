@@ -4,7 +4,7 @@
   Description:  Relays data between GT-511C3 fingerprint scanner and processing
                 application via the serial port at 9600 baud.
 
-  Hardware:     - Arduino Uno
+  Hardware:     - Arduino Genuino Uno
                 - GT-511C3 Optical Fingerprint Scanner Module
                 - Interfacing resitors
 
