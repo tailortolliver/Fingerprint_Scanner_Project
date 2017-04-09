@@ -1,4 +1,3 @@
-
 /*-----------------------------------------------------------------------------------
 Description: Displays two buttons that allow the LED of the GT-511C3 finger print
                scanner to be switched on and off.
