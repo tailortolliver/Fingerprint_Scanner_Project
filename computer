@@ -1,0 +1,11 @@
+Steps for computer for FPS project:
+
+-listen over serial
+
+-read fingerprint when sent
+
+-send to database
+
+-run web server
+
+-authenticate with auth token
