@@ -1,0 +1,9 @@
+Tools needed for project to work:
+
+-store fingerprints in DB
+
+-authentication token on website for each user
+
+-tie fingerprint to auth token
+
+-website
