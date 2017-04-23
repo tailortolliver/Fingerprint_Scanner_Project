@@ -1,0 +1,10 @@
+Steps for fingerprint scanner:
+
+-fingerprint scanner
+-fingerprint ---> arduino
+          fp(serial)
+-arduino ---> USB
+-database 
+  -create schema
+     -uname -> fingerprint
+     -auth token
