@@ -1,0 +1,4 @@
+Steps for web server:
+
+-receive auth token
+  -see if valid
